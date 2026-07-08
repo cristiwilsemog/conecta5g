@@ -1,5 +1,5 @@
 {
-    "Version": 7,
+    "Version": 8,
     "PainelConecta5G": false,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "UrlUpdate": "https://raw.githubusercontent.com/cristiwilsemog/conecta5g/refs/heads/main/config.json",
@@ -34,7 +34,7 @@
     ],
     "Servers": [
         {
-            "Name": "SEMOG BR",
+            "Name": "SEMOG",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "mat.itech2.uk",
