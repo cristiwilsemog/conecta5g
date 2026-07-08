@@ -1,5 +1,5 @@
 {
-    "Version": 6,
+    "Version": 7,
     "PainelConecta5G": false,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "UrlUpdate": "https://raw.githubusercontent.com/cristiwilsemog/conecta5g/refs/heads/main/config.json",
@@ -47,7 +47,7 @@
     ],
     "Networks": [
         {
-            "Name": "TIM SALDO VALIDO [SSL]",
+            "Name": "TIM SALDO VALIDO 1",
             "FLAG": "tim",
             "Payload": "GET /proxy HTTP/1.1[lf]Host: mat.itech2.uk[lf]Upgrade: websocket[lf][lf]",
             "SNI": "mat.itech2.uk",
