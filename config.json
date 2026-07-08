@@ -47,7 +47,7 @@
     ],
     "Networks": [
         {
-            "Name": "TIM SALDO VALIDO Tiktok",
+            "Name": "TIM SALDO VALIDO TINDER",
             "FLAG": "tim",
             "Payload": "GET /proxy HTTP/1.1[lf]Host: mat.itech2.uk[lf]Upgrade: websocket[lf][lf]",
             "SNI": "mat.itech2.uk",
