@@ -1,5 +1,5 @@
 {
-    "Version": 9,
+    "Version": 10,
     "PainelConecta5G": false,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "UrlUpdate": "https://raw.githubusercontent.com/cristiwilsemog/conecta5g/refs/heads/main/config.json",
@@ -38,7 +38,7 @@
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "mat.itech2.uk",
-            "CheckUser": "https://checkuser.servex.ws/api/checkuser/123b4d6437c59b376134d78853f5ef39",
+            "CheckUser": "http://134.65.226.35:5454/checkUser",
             "ServerPort": "22",
             "SSLPort": "443",
             "USER": "",
